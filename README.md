@@ -471,333 +471,551 @@ C. Lengthy explanations
 D. Multiple languages
 
 **47. How should you handle mixed tasks in MoE models?**
+
 A. Combine everything in one prompt
+
 B. Separate mixed tasks or break into sequential steps
+
 C. Use only simple tasks
+
 D. Avoid mixed tasks entirely
 
 **48. What vocabulary works best with MoE routing?**
+
 A. Creative and indirect language
+
 B. Unambiguous, domain-specific vocabulary
+
 C. Technical jargon only
+
 D. Poetic language
 
 **49. How should examples be chosen for MoE few-shot prompting?**
+
 A. Use diverse, unrelated examples
+
 B. Match examples to the same domain, format, and language as the goal
+
 C. Use only one example
+
 D. Avoid examples completely
 
 **50. What temperature settings help with MoE consistency?**
+
 A. High temperature increases consistency
+
 B. Lower temperature reduces expert churn and improves consistency
+
 C. Temperature has no effect on MoE
+
 D. Always use maximum temperature
 
 ## Practical Applications (51-75)
 
 **51. For content creation prompts, what should you specify?**
+
 A. Just the topic
+
 B. Context, audience, tone, format, and specific requirements
+
 C. Only the word count
+
 D. Just the deadline
 
 **52. How should you structure data analysis prompts?**
+
 A. Ask general questions only
+
 B. Provide clear analysis framework with specific output requirements
+
 C. Use only yes/no questions
+
 D. Avoid structure completely
 
 **53. For code generation prompts, what elements are essential?**
+
 A. Just the programming language
+
 B. Requirements, error handling, documentation, examples, and type hints
+
 C. Only the function name
+
 D. Just the expected output
 
 **54. What makes a good role prompt?**
+
 A. Generic roles only
+
 B. Specific expertise that matches the task (e.g., "experienced software architect")
+
 C. Always use "assistant"
+
 D. Avoid roles completely
 
 **55. How should you handle technical documentation prompts?**
+
 A. Keep them vague
+
 B. Specify audience level, format, and include examples of desired output
+
 C. Use only bullet points
+
 D. Avoid technical terms
 
 **56. What's important for translation prompts?**
+
 A. Just specify source and target languages
+
 B. Include context, tone, audience, and cultural considerations
+
 C. Use machine translation first
+
 D. Avoid examples
 
 **57. For summarization tasks, what should you specify?**
+
 A. Just ask for a summary
+
 B. Specify length, key points to focus on, and target audience
+
 C. Always use bullet points
+
 D. Make summaries as long as possible
 
 **58. How should you approach creative writing prompts?**
+
 A. Be very restrictive
+
 B. Provide genre, style, length, and key elements while allowing creativity
+
 C. Give no guidance
+
 D. Use only factual prompts
 
 **59. What's crucial for classification prompts?**
+
 A. Use many categories
+
 B. Provide clear categories and examples for each class
+
 C. Use only two categories
+
 D. Avoid examples
 
 **60. For question-answering systems, what should you include?**
+
 A. Just the questions
+
 B. Context, source materials, format for answers, and confidence indicators
+
 C. Only multiple choice options
+
 D. Random information
 
 **61. How should you structure comparison prompts?**
+
 A. List items randomly
+
 B. Specify comparison criteria, format (table/prose), and depth of analysis
+
 C. Compare everything to everything
+
 D. Use only two items
 
+
 **62. What's important in explanation prompts?**
+
 A. Use complex language
+
 B. Specify audience level, examples needed, and depth of explanation
+
 C. Assume expert knowledge
+
 D. Avoid analogies
 
 **63. For brainstorming prompts, how should you balance structure and creativity?**
+
 A. Be completely rigid
+
 B. Provide enough structure to guide thinking while allowing creative exploration
+
 C. Give no structure at all
+
 D. Use only logical approaches
 
 **64. What should problem-solving prompts include?**
+
 A. Just the problem statement
+
 B. Context, constraints, desired solution format, and success criteria
+
 C. Only the final answer format
+
 D. Multiple unrelated problems
 
 **65. How should you approach research synthesis prompts?**
+
 A. Ask for everything about the topic
+
 B. Specify sources, synthesis framework, key themes, and output structure
+
 C. Use only one source
+
 D. Avoid citing sources
 
 **66. What's essential for recommendation prompts?**
+
 A. Generic recommendations
+
 B. User context, criteria for recommendations, and reasoning for choices
+
 C. Only popular options
+
 D. Random suggestions
 
 **67. For educational content prompts, what should you consider?**
+
 A. One learning style only
+
 B. Learning level, objectives, examples, and assessment methods
+
 C. Advanced concepts only
+
 D. No structure needed
 
 **68. How should you structure email writing prompts?**
+
 A. Just mention it's an email
+
 B. Specify purpose, audience, tone, key points, and desired action
+
 C. Use the same template always
+
 D. Keep them very formal
 
 **69. What's important for report writing prompts?**
+
 A. Just the topic
+
 B. Scope, audience, structure, data sources, and executive summary requirements
+
 C. Only conclusions
+
 D. Make them as long as possible
 
 **70. For product description prompts, what should you include?**
+
 A. Just basic features
+
 B. Target audience, key benefits, tone, format, and competitive differentiators
+
 C. Only technical specifications
+
 D. Generic descriptions
 
 **71. How should you approach social media prompts?**
+
 A. Use the same approach for all platforms
+
 B. Specify platform, audience, tone, length limits, and engagement goals
+
 C. Ignore platform differences
+
 D. Use only formal language
 
 **72. What's crucial for customer service prompts?**
+
 A. Always say yes to everything
+
 B. Brand voice, escalation procedures, empathy guidelines, and solution focus
+
 C. Use rigid scripts only
+
 D. Avoid personalization
 
 **73. For interview question prompts, what should you specify?**
+
 A. Just the job title
+
 B. Role level, skills to assess, question types, and evaluation criteria
+
 C. Only generic questions
+
 D. Use the same questions for all roles
 
 **74. How should you structure meeting summary prompts?**
+
 A. Include everything mentioned
+
 B. Specify key decisions, action items, attendees, and next steps format
+
 C. Only include complaints
+
 D. Use chronological order only
 
 **75. What's important for proposal writing prompts?**
+
 A. Just the basic idea
+
 B. Requirements, audience, structure, value proposition, and success metrics
+
 C. Only the budget
+
 D. Make them very long
 
 ## Troubleshooting and Optimization (76-90)
 
 **76. If you get inconsistent answers across runs, what should you do?**
+
 A. Ignore the inconsistency
+
 B. Add sharper domain anchors and reduce temperature
+
 C. Increase temperature
+
 D. Use longer prompts
 
 **77. What should you do if the AI misses the skill you want?**
+
 A. Give up and try a different task
+
 B. Use explicit skill tags and show target format in examples
+
 C. Make the prompt longer
+
 D. Use higher temperature
 
 **78. How should you handle mixed-topic responses?**
+
 A. Accept them as they are
+
 B. Split the request or ask for a plan first, then execute steps
+
 C. Use more complex prompts
+
 D. Combine more topics
 
 **79. What indicates a prompt needs refinement?**
+
 A. It works perfectly every time
+
 B. Inconsistent outputs, missing requirements, or wrong format
+
 C. It's too short
+
 D. It uses simple language
 
 **80. How should you approach prompt optimization?**
+
 A. Change everything at once
+
 B. Make systematic changes and test variations methodically
+
 C. Use random modifications
+
 D. Copy others' prompts exactly
 
 **81. What's a sign of over-prompting?**
+
 A. Getting good results
+
 B. Contradictory instructions or unnecessarily complex requirements
+
 C. Short responses
+
 D. Fast responses
 
 **82. How should you handle prompt length concerns?**
+
 A. Always use maximum length
+
 B. Balance detail with conciseness, focus on essential elements
+
 C. Always use minimum length
+
 D. Length doesn't matter
 
 **83. What should you do when a prompt works well for some cases but not others?**
+
 A. Use it as-is
+
 B. Analyze the failing cases and adjust for edge cases
+
 C. Abandon the prompt
+
 D. Use it only for successful cases
 
 **84. How should you handle domain-specific terminology in prompts?**
+
 A. Avoid it completely
+
 B. Use it appropriately for the audience and provide definitions when needed
+
 C. Use only technical terms
+
 D. Use only common terms
 
 **85. What's important when scaling prompts for production?**
+
 A. Never change them
+
 B. Monitor performance, handle edge cases, and maintain consistency
+
 C. Make them more complex
+
 D. Use different prompts for each user
 
 **86. How should you handle cultural sensitivity in global prompts?**
+
 A. Ignore cultural differences
+
 B. Consider cultural context and avoid assumptions
+
 C. Use only Western references
+
 D. Make prompts culture-specific
 
 **87. What should you do if responses are too verbose?**
+
 A. Accept lengthy responses
+
 B. Add specific length constraints and format requirements
+
 C. Use higher temperature
+
 D. Remove all constraints
 
 **88. How should you handle ambiguous prompts?**
+
 A. Let the AI interpret freely
+
 B. Add clarifying details and specific examples
+
 C. Make them more ambiguous
+
 D. Use multiple interpretations
 
 **89. What's important for maintaining prompt quality over time?**
+
 A. Never update them
+
 B. Regular testing, monitoring performance, and iterative improvements
+
 C. Change them constantly
+
 D. Use community feedback only
 
 **90. How should you approach prompt versioning?**
+
 A. Don't track versions
+
 B. Document changes, reasons, and performance impacts systematically
+
 C. Use only the latest version
+
 D. Keep all versions active simultaneously
 
 ## Future and Advanced Topics (91-100)
 
 **91. What's emerging in prompt engineering for 2025?**
+
 A. Abandoning structured outputs
+
 B. Multi-modal prompting, better context management, and MoE-aware techniques
+
 C. Using only simple prompts
+
 D. Eliminating examples
 
 **92. How will prompt engineering evolve with more advanced AI?**
+
 A. Become unnecessary
+
 B. Require more sophisticated techniques for complex reasoning and tool use
+
 C. Stay exactly the same
+
 D. Become completely automated
 
 **93. What's important for prompt engineering in conversational AI?**
+
 A. Treating each turn independently
+
 B. Context management, memory, and maintaining consistency across turns
+
 C. Using only short responses
+
 D. Avoiding previous context
 
 **94. How should you approach prompt engineering for AI agents?**
+
 A. Use the same techniques as chatbots
+
 B. Focus on tool use instructions, task decomposition, and state management
+
 C. Avoid giving agents any instructions
+
 D. Use only simple commands
 
 **95. What's the relationship between prompt engineering and fine-tuning?**
+
 A. They're mutually exclusive
+
 B. Prompt engineering can reduce the need for fine-tuning in many cases
+
 C. Fine-tuning always replaces prompt engineering
+
 D. They have no relationship
 
 **96. How should you prepare for working with future AI models?**
+
 A. Stop learning new techniques
+
 B. Focus on fundamental principles while staying updated on model-specific features
+
 C. Only learn current model techniques
+
 D. Avoid systematic approaches
 
 **97. What's important for prompt engineering in specialized domains?**
+
 A. Use generic approaches only
+
 B. Understand domain-specific requirements and terminology
+
 C. Avoid domain expertise
+
 D. Use the same prompts for all domains
 
 **98. How should you approach collaborative prompt engineering?**
+
 A. Work in isolation
+
 B. Share knowledge, document best practices, and learn from others
+
 C. Keep techniques secret
+
 D. Use only individual approaches
 
 **99. What's the role of evaluation in advanced prompt engineering?**
+
 A. It's unnecessary
+
 B. Systematic evaluation and metrics are crucial for optimization
+
 C. Only manual evaluation matters
+
 D. Evaluation slows down development
 
+
 **100. What's the most important skill for future prompt engineers?**
+
 A. Memorizing specific techniques
+
 B. Systematic thinking, experimentation, and adaptation to new models
+
 C. Using only proven methods
+
 D. Avoiding complexity
 
 ---
@@ -805,12 +1023,21 @@ D. Avoiding complexity
 ## Answer Key
 
 1. B  2. B  3. B  4. C  5. B  6. B  7. B  8. B  9. B  10. B
-11. B  12. B  13. B  14. B  15. B  16. B  17. B  18. B  19. B  20. B
+
+11. B  12. B  13. B  14. B  15. B  16. B  17. B  18.  B  19. B   20. B
+
 21. B  22. B  23. B  24. B  25. B  26. B  27. B  28. B  29. B  30. B
+
 31. B  32. B  33. B  34. B  35. B  36. B  37. B  38. B  39. B  40. B
+
 41. B  42. B  43. B  44. B  45. B  46. B  47. B  48. B  49. B  50. B
+
 51. B  52. B  53. B  54. B  55. B  56. B  57. B  58. B  59. B  60. B
+
 61. B  62. B  63. B  64. B  65. B  66. B  67. B  68. B  69. B  70. B
+
 71. B  72. B  73. B  74. B  75. B  76. B  77. B  78. B  79. B  80. B
+
 81. B  82. B  83. B  84. B  85. B  86. B  87. B  88. B  89. B  90. B
+
 91. B  92. B  93. B  94. B  95. B  96. B  97. B  98. B  99. B  100. B
