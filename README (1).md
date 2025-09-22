@@ -13,161 +13,264 @@ c) Vintage aesthetics + film grain + artistic interpretation
 d) Wide aperture + dramatic shadows + unconventional angles
 
 **2.** According to the visual hierarchy principle, what should be the correct order of prompt structure?
+
 a) Technical details → Environment → Main subject → Mood
 b) Lighting → Style → Subject → Action
+
 c) Main subject → Environment/background → Lighting/mood → Technical details
+
 d) Style → Technical specifications → Subject → Environment
 
 **3.** Which prompt structure would be LEAST effective for generating consistent professional results?
+
 a) "Hyper-realistic studio portrait with professional lighting"
+
 b) "Nice portrait of a person looking good"
+
 c) "Corporate headshot with neutral background and even lighting"
+
 d) "Professional business portrait with soft studio lighting"
 
 **4.** What is the primary advantage of using "of the uploaded photo" in prompts?
+
 a) It increases image resolution
+
 b) It ensures subject consistency and likeness retention
+
 c) It automatically applies professional lighting
+
 d) It removes background distractions
 
 **5.** When combining conflicting style elements, which approach is MOST problematic?
+
 a) "Modern corporate style with vintage film aesthetic"
+
 b) "Professional lighting with artistic composition"
+
 c) "Studio setup with natural lighting simulation"
+
 d) "Vintage-inspired styling with modern photography techniques"
 
 **6.** For a LinkedIn profile photo, which prompt element combination would be MOST appropriate?
+
 a) Creative artistic interpretation + dramatic lighting + fashion styling
+
 b) Approachable expression + professional attire + clean background + direct eye contact
+
 c) Environmental storytelling + documentary style + candid moments
+
 d) High-fashion poses + editorial lighting + designer clothing
 
 **7.** Which technical specification combination would create the MOST professional headshot appearance?
+
 a) 35mm lens, f/8, deep depth of field, wide environmental context
+
 b) 85mm lens, f/2.8, shallow depth of field, studio lighting
+
 c) 24mm lens, f/1.4, extreme bokeh, dramatic perspective
+
 d) 135mm lens, f/11, maximum sharpness, natural lighting
 
 **8.** What makes Rembrandt lighting particularly effective for portrait photography?
+
 a) It eliminates all shadows for even illumination
+
 b) It creates a small triangle of light on the shadow side of the face
+
 c) It provides maximum brightness across the entire face
+
 d) It produces split lighting with half the face in shadow
 
 **9.** When specifying camera equipment in prompts, which combination suggests the HIGHEST production value?
+
 a) Smartphone camera, digital filters, auto settings
+
 b) Medium format Hasselblad, professional studio setup, controlled lighting
+
 c) Point-and-shoot camera, natural lighting, basic composition
+
 d) Film camera, available light, documentary style
 
 **10.** For executive portraits, which environmental context would be MOST effective?
+
 a) Creative artist workspace with natural lighting
+
 b) Modern corporate office with professional lighting
+
 c) Outdoor urban setting with street photography style
+
 d) Home environment with lifestyle photography approach
 
 **11.** Which lighting quality creates the MOST flattering results for most portrait subjects?
+
 a) Hard direct lighting with sharp shadows
+
 b) Flat even lighting with no directional quality
+
 c) Soft diffused lighting with gradual shadow transitions
+
 d) High contrast lighting with dramatic shadows
 
 **12.** When creating prompts for branding materials, which element is MOST important to avoid?
+
 a) Professional lighting specifications
+
 b) Brand-consistent color palettes
+
 c) Random, uncontrolled postures and expressions
+
 d) Technical camera specifications
 
 **13.** What distinguishes editorial photography style from corporate headshots?
+
 a) Editorial uses only natural lighting while corporate uses only studio lighting
+
 b) Editorial emphasizes creative interpretation while corporate prioritizes clean professionalism
+
 c) Editorial requires medium format cameras while corporate uses standard DSLR
+
 d) Editorial avoids technical specifications while corporate requires them
 
 **14.** For personal branding photography, which approach provides the BEST balance?
+
 a) Pure artistic interpretation without commercial considerations
+
 b) Strict corporate standards with no creative elements
+
 c) Professional quality with personality and brand attributes
+
 d) Documentary style with no controlled elements
 
 **15.** Which prompt structure error is MOST likely to produce inconsistent results?
+
 a) Using too many technical specifications
+
 b) Combining multiple conflicting style references in one prompt
+
 c) Including specific lighting directions
+
 d) Specifying camera equipment details
 
 ## Section 2: Technical Photography Knowledge (Questions 16-30)
 
 **16.** What is the primary difference between f/1.4 and f/2.8 in portrait photography context?
+
 a) f/1.4 provides deeper depth of field than f/2.8
+
 b) f/2.8 creates more background blur than f/1.4
+
 c) f/1.4 creates more extreme background separation than f/2.8
+
 d) Both apertures produce identical depth of field effects
 
 **17.** Which lens focal length provides the MOST natural perspective for professional headshots?
+
 a) 24mm wide-angle lens
+
 b) 35mm standard lens
+
 c) 85mm portrait lens
+
 d) 200mm telephoto lens
 
 **18.** Golden hour lighting is characterized by which specific qualities?
+
 a) Cool blue tones with harsh directional shadows
+
 b) Warm golden tones with soft directional light and long shadows
+
 c) Neutral white light with even illumination
+
 d) High contrast with deep shadows and bright highlights
 
 **19.** In studio lighting terminology, what is the primary function of a fill light?
+
 a) To serve as the main light source for the subject
+
 b) To create rim lighting and subject separation
+
 c) To reduce shadow contrast created by the key light
+
 d) To illuminate the background independently
 
 **20.** Which lighting pattern creates a butterfly-shaped shadow under the subject's nose?
+
 a) Rembrandt lighting
+
 b) Split lighting
+
 c) Loop lighting
+
 d) Butterfly lighting
 
 **21.** What does "bokeh" specifically refer to in photography?
+
 a) The sharpness of the main subject
+
 b) The quality and aesthetic of out-of-focus areas
+
 c) The overall contrast of the image
+
 d) The color temperature of the lighting
 
 **22.** For environmental portraits, which aperture setting would BEST maintain context while keeping the subject sharp?
+
 a) f/1.4 for maximum background blur
+
 b) f/2.8 for moderate subject isolation with some background detail
+
 c) f/8 for sharp focus throughout the entire frame
+
 d) f/16 for maximum depth of field
 
 **23.** Which color temperature range is considered MOST flattering for professional portraits?
+
 a) 2700K-3200K (warm tungsten)
+
 b) 3200K-5500K (neutral professional)
+
 c) 5500K-7000K (cool daylight)
+
 d) 7000K+ (very cool blue)
 
 **24.** What distinguishes a softbox from an umbrella in studio lighting?
+
 a) Softboxes provide harder light than umbrellas
+
 b) Umbrellas are more directional than softboxes
+
 c) Softboxes offer more controlled light direction than umbrellas
+
 d) Umbrellas create more dramatic shadows than softboxes
 
 **25.** In post-processing terminology, what does "dodge and burn" accomplish?
+
 a) Overall color correction and white balance
+
 b) Selective lightening and darkening to enhance natural light patterns
+
 c) Removal of all skin imperfections
+
 d) Adjustment of overall image contrast
 
 **26.** Which camera format generally produces the highest image quality for professional portraits?
+
 a) Smartphone cameras with computational photography
+
 b) Standard 35mm DSLR cameras
+
 c) Medium format digital cameras
+
 d) Point-and-shoot digital cameras
 
 **27.** What creates the "creamy bokeh" effect that is highly desirable in portrait photography?
+
 a) Using the smallest possible aperture setting
+
 b) High-quality lens optics combined with wide aperture settings
+
 c) Heavy post-processing of background areas
+
 d) Using wide-angle lenses at close distances
 
 **28.** Which lighting modifier would create the MOST dramatic and directional light?
